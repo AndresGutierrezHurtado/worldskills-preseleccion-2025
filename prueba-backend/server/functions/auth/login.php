@@ -29,7 +29,7 @@ try {
     $_SESSION["user"] = $user;
 
     // RESPUESTA
-    custom_response("Sesion iniciada correctamente", $user["user_alias"] === "admin" ? "/dashboard.php" : "/catalog.php");
+    custom_response("Sesion iniciada correctamente", $user["role_id"] === 2 ? "/dashboard.php" : "/catalog.php");
 } catch (Exception $e) {
     custom_response("Hubo un error al iniciar sesión: {$e->getMessage()}");
 }

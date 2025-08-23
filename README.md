@@ -69,3 +69,44 @@ worldskills-preseleccion-2025/
 │
 └── README.md                                       # Archivo principal de documentación
 ```
+
+---
+
+## 🎯 Pruebas de la Competencia
+
+### Prueba Frontend - Netflix Clone
+
+Esta prueba evaluó las habilidades de desarrollo frontend con un enfoque en la recreación de una interfaz moderna y responsiva:
+
+-   **HTML Semántico**: Estructura limpia y accesible
+-   **CSS Responsivo**: Diseño adaptable a múltiples dispositivos
+-   **JavaScript Interactivo**: Funcionalidad de modal y reproducción de videos
+-   **UX/UI Moderna**: Interfaz inspirada en Netflix con navegación intuitiva
+-   **Optimización de Recursos**: Carga eficiente de imágenes y videos
+
+**Características destacadas:**
+
+-   Header con navegación completa
+-   Sección hero con película destacada
+-   Grid de películas populares
+-   Modal para reproducción de trailers
+-   Diseño completamente responsivo
+
+### Prueba Backend - Sistema de Gestión de Películas
+
+Esta prueba evaluó las competencias en desarrollo backend y gestión de datos:
+
+-   **Separación de responsabilidades**: Organización clara entre lógica, presentación y acceso a datos
+-   **Base de Datos Relacional**: Gestión eficiente de datos
+-   **Sistema de Autenticación**: Roles de usuario y administrador
+-   **CRUD Completo**: Operaciones de creación, lectura, actualización y eliminación
+-   **Interfaz Administrativa**: Panel de gestión intuitivo
+
+**Funcionalidades implementadas:**
+
+-   Login con roles diferenciados (admin/user)
+-   Dashboard administrativo completo
+-   Gestión de películas con imágenes
+-   Catálogo público responsivo
+-   Sistema de categorías por género
+-   Validaciones de seguridad
