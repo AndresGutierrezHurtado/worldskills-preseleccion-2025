@@ -126,8 +126,11 @@ Estos testimonios fueron grabados durante y después de la competencia, capturan
 **📋 Contexto:** El instructor que me acompañó durante la prueba destacó la solidez de los primeros resultados obtenidos y la manera en que organicé el desarrollo desde el inicio.
 
 <audio controls>
-  <source src="./docs/testimonios/audio-0.mp3" type="audio/mpeg">
-  Tu navegador no soporta el elemento de audio. [Descargar audio](./docs/testimonios/audio-0.mp3)
+    <source src="./docs/testimonios/audio-0.mp3" type="audio/mpeg">
+    Tu navegador no soporta el elemento de audio.
+    <a href="./docs/testimonios/audio-0.mp3">
+        Descargar audio
+    </a>
 </audio>
 
 ---
@@ -137,8 +140,11 @@ Estos testimonios fueron grabados durante y después de la competencia, capturan
 **📋 Contexto:** En este testimonio, el instructor resaltó mi rapidez, el dominio técnico demostrado y la calidad pulida del trabajo desarrollado en tiempo limitado.
 
 <audio controls>
-  <source src="./docs/testimonios/audio-1.mp3" type="audio/mpeg">
-  Tu navegador no soporta el elemento de audio. [Descargar audio](./docs/testimonios/audio-1.mp3)
+    <source src="./docs/testimonios/audio-1.mp3" type="audio/mpeg">
+    Tu navegador no soporta el elemento de audio.
+    <a href="./docs/testimonios/audio-1.mp3">
+        Descargar audio
+    </a>
 </audio>
 
 ---
@@ -148,8 +154,11 @@ Estos testimonios fueron grabados durante y después de la competencia, capturan
 **📋 Contexto:** El experto nacional de WorldSkills compartió su valoración sobre el proyecto, destacando la estructura técnica implementada y el nivel alcanzado frente a los demás competidores.
 
 <audio controls>
-  <source src="./docs/testimonios/audio-2.mp3" type="audio/mpeg">
-  Tu navegador no soporta el elemento de audio. [Descargar audio](./docs/testimonios/audio-2.mp3)
+    <source src="./docs/testimonios/audio-2.mp3" type="audio/mpeg">
+    Tu navegador no soporta el elemento de audio.
+    <a href="./docs/testimonios/audio-2.mp3">
+        Descargar audio
+    </a>
 </audio>
 
 ---
@@ -159,6 +168,9 @@ Estos testimonios fueron grabados durante y después de la competencia, capturan
 **📋 Contexto:** En la conclusión de la prueba, el experto nacional reconoció que fui uno de los pocos competidores en completar satisfactoriamente todos los ejercicios, resaltando mi preparación y capacidad bajo presión.
 
 <audio controls>
-  <source src="./docs/testimonios/audio-3.mp3" type="audio/mpeg">
-  Tu navegador no soporta el elemento de audio. [Descargar audio](./docs/testimonios/audio-3.mp3)
+    <source src="./docs/testimonios/audio-3.mp3" type="audio/mpeg">
+    Tu navegador no soporta el elemento de audio.
+    <a href="./docs/testimonios/audio-3.mp3">
+        Descargar audio
+    </a>
 </audio>
