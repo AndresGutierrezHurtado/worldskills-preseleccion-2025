@@ -110,3 +110,55 @@ Esta prueba evaluó las competencias en desarrollo backend y gestión de datos:
 -   Catálogo público responsivo
 -   Sistema de categorías por género
 -   Validaciones de seguridad
+
+---
+
+## 🎙️ Testimonios
+
+Durante la competencia, recibí reconocimiento directo de los **profesores evaluadores** y **coordinadores técnicos** de WorldSkills Colombia por la calidad de mi trabajo y mi desempeño bajo presión.
+
+### 🎯 Reconocimientos
+
+Estos testimonios fueron grabados durante y después de la competencia, capturando las impresiones directas de los evaluadores sobre mi desempeño técnico y competitivo.
+
+#### 🎙️ Audio 1 - Evaluación Inicial del Proyecto
+
+**📋 Contexto:** El instructor que me acompañó durante la prueba destacó la solidez de los primeros resultados obtenidos y la manera en que organicé el desarrollo desde el inicio.
+
+<audio controls>
+  <source src="./docs/testimonios/audio-0.mp3" type="audio/mpeg">
+  Tu navegador no soporta el elemento de audio. [Descargar audio](./docs/testimonios/audio-0.mp3)
+</audio>
+
+---
+
+#### 🎙️ Audio 2 - Opinion a cerca del rendimiento durante la prueba
+
+**📋 Contexto:** En este testimonio, el instructor resaltó mi rapidez, el dominio técnico demostrado y la calidad pulida del trabajo desarrollado en tiempo limitado.
+
+<audio controls>
+  <source src="./docs/testimonios/audio-1.mp3" type="audio/mpeg">
+  Tu navegador no soporta el elemento de audio. [Descargar audio](./docs/testimonios/audio-1.mp3)
+</audio>
+
+---
+
+#### 🎙️ Audio 3 - Análisis post calficacion
+
+**📋 Contexto:** El experto nacional de WorldSkills compartió su valoración sobre el proyecto, destacando la estructura técnica implementada y el nivel alcanzado frente a los demás competidores.
+
+<audio controls>
+  <source src="./docs/testimonios/audio-2.mp3" type="audio/mpeg">
+  Tu navegador no soporta el elemento de audio. [Descargar audio](./docs/testimonios/audio-2.mp3)
+</audio>
+
+---
+
+#### 🎙️ Audio 4 - Evaluación Final y Reconocimiento
+
+**📋 Contexto:** En la conclusión de la prueba, el experto nacional reconoció que fui uno de los pocos competidores en completar satisfactoriamente todos los ejercicios, resaltando mi preparación y capacidad bajo presión.
+
+<audio controls>
+  <source src="./docs/testimonios/audio-3.mp3" type="audio/mpeg">
+  Tu navegador no soporta el elemento de audio. [Descargar audio](./docs/testimonios/audio-3.mp3)
+</audio>
