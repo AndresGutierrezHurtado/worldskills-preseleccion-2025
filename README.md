@@ -125,13 +125,7 @@ Estos testimonios fueron grabados durante y después de la competencia, capturan
 
 **📋 Contexto:** El instructor que me acompañó durante la prueba destacó la solidez de los primeros resultados obtenidos y la manera en que organicé el desarrollo desde el inicio.
 
-<video controls>
-    <source src="./docs/testimonios/audio-0.mp4" type="video/mp4">
-    Tu navegador no soporta el elemento de video.
-    <a href="https://github.com/AndresGutierrezHurtado/worldskills-preseleccion-2025/raw/refs/heads/main/docs/testimonios/audio-0.mp3">
-        Descargar video
-    </a>
-</video>
+[Descargar el audio](https://github.com/AndresGutierrezHurtado/worldskills-preseleccion-2025/raw/refs/heads/main/docs/testimonios/audio-0.mp3)
 
 ---
 
@@ -139,13 +133,7 @@ Estos testimonios fueron grabados durante y después de la competencia, capturan
 
 **📋 Contexto:** En este testimonio, el instructor resaltó mi rapidez, el dominio técnico demostrado y la calidad pulida del trabajo desarrollado en tiempo limitado.
 
-<video controls>
-    <source src="./docs/testimonios/audio-1.mp4" type="video/mp4">
-    Tu navegador no soporta el elemento de video.
-    <a href="https://github.com/AndresGutierrezHurtado/worldskills-preseleccion-2025/raw/refs/heads/main/docs/testimonios/audio-1.mp3">
-        Descargar video
-    </a>
-</video>
+[Descargar el audio](https://github.com/AndresGutierrezHurtado/worldskills-preseleccion-2025/raw/refs/heads/main/docs/testimonios/audio-1.mp3)
 
 ---
 
@@ -153,24 +141,12 @@ Estos testimonios fueron grabados durante y después de la competencia, capturan
 
 **📋 Contexto:** El experto nacional de WorldSkills compartió su valoración sobre el proyecto, destacando la estructura técnica implementada y el nivel alcanzado frente a los demás competidores.
 
-<video controls>
-    <source src="./docs/testimonios/audio-2.mp4" type="video/mp4">
-    Tu navegador no soporta el elemento de video.
-    <a href="https://github.com/AndresGutierrezHurtado/worldskills-preseleccion-2025/raw/refs/heads/main/docs/testimonios/audio-2.mp3">
-        Descargar video
-    </a>
-</video>
+[Descargar el audio](https://github.com/AndresGutierrezHurtado/worldskills-preseleccion-2025/raw/refs/heads/main/docs/testimonios/audio-2.mp3)
 
 ---
 
 #### 🎙️ Audio 4 - Evaluación Final y Reconocimiento
 
-**📋 Contexto:** En la conclusión de la prueba, el experto nacional reconoció que fui uno de los pocos competidores en completar satisfactoriamente todos los ejercicios, resaltando mi preparación y capacidad bajo presión.
+**📋 Contexto:** En la conclusión de la prueba, el experto nacional reconoció que fui uno de los pocos competidores en completar satisfactoriamente todos los ejercicios, resaltando mi
 
-<video controls>
-    <source src="./docs/testimonios/audio-3.mp4" type="video/mp4">
-    Tu navegador no soporta el elemento de video.
-    <a href="https://github.com/AndresGutierrezHurtado/worldskills-preseleccion-2025/raw/refs/heads/main/docs/testimonios/audio-3.mp3">
-        Descargar video
-    </a>
-</video>
+[Descargar el audio](https://github.com/AndresGutierrezHurtado/worldskills-preseleccion-2025/raw/refs/heads/main/docs/testimonios/audio-3.mp3)
