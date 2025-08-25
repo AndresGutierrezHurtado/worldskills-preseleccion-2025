@@ -128,7 +128,7 @@ Estos testimonios fueron grabados durante y después de la competencia, capturan
 <video controls>
     <source src="./docs/testimonios/audio-0.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
-    <a href="./docs/testimonios/audio-0.mp4">
+    <a href="https://github.com/AndresGutierrezHurtado/worldskills-preseleccion-2025/raw/refs/heads/main/docs/testimonios/audio-0.mp3">
         Descargar video
     </a>
 </video>
@@ -142,7 +142,7 @@ Estos testimonios fueron grabados durante y después de la competencia, capturan
 <video controls>
     <source src="./docs/testimonios/audio-1.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
-    <a href="./docs/testimonios/audio-1.mp4">
+    <a href="https://github.com/AndresGutierrezHurtado/worldskills-preseleccion-2025/raw/refs/heads/main/docs/testimonios/audio-1.mp3">
         Descargar video
     </a>
 </video>
@@ -156,7 +156,7 @@ Estos testimonios fueron grabados durante y después de la competencia, capturan
 <video controls>
     <source src="./docs/testimonios/audio-2.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
-    <a href="./docs/testimonios/audio-2.mp4">
+    <a href="https://github.com/AndresGutierrezHurtado/worldskills-preseleccion-2025/raw/refs/heads/main/docs/testimonios/audio-2.mp3">
         Descargar video
     </a>
 </video>
@@ -170,7 +170,7 @@ Estos testimonios fueron grabados durante y después de la competencia, capturan
 <video controls>
     <source src="./docs/testimonios/audio-3.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
-    <a href="./docs/testimonios/audio-3.mp4">
+    <a href="https://github.com/AndresGutierrezHurtado/worldskills-preseleccion-2025/raw/refs/heads/main/docs/testimonios/audio-3.mp3">
         Descargar video
     </a>
 </video>
