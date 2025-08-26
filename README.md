@@ -12,6 +12,16 @@ Aquí encontrarás las **dos pruebas completas entregadas** (Frontend y Backend)
 
 ---
 
+## 📚 Tabla de Contenidos
+
+-   [Contexto de la Competencia](#-contexto-y-preselección-worldskills-colombia-2025)
+-   [Estructura del Repositorio](#-estructura-del-repositorio)
+-   [Pruebas de Competencia](#-pruebas-de-la-competencia)
+-   [Testimonios](#️-testimonios)
+-   [Contacto](#-contacto)
+
+---
+
 ## 🏅 Contexto y Preselección WorldSkills Colombia 2025
 
 La **preselección nacional WorldSkills Colombia 2025** es la fase más **exigente y competitiva** del proceso de selección. En esta etapa, los **ganadores regionales** de todo el país se enfrentan para obtener el derecho a representar a su regional en la **competencia nacional**, bajo estándares de calidad internacional.
