@@ -135,7 +135,7 @@ Estos testimonios fueron grabados durante y después de la competencia, capturan
 
 **📋 Contexto:** El instructor que me acompañó durante la prueba destacó la solidez de los primeros resultados obtenidos y la manera en que organicé el desarrollo desde el inicio.
 
-
+https://github.com/user-attachments/assets/ce5a4de7-fdd1-416e-b0cb-a41871e10d9c
 
 ---
 
@@ -143,7 +143,7 @@ Estos testimonios fueron grabados durante y después de la competencia, capturan
 
 **📋 Contexto:** En este testimonio, el instructor resaltó mi rapidez, el dominio técnico demostrado y la calidad pulida del trabajo desarrollado en tiempo limitado.
 
-
+https://github.com/user-attachments/assets/6600c1b2-a861-4ff9-96eb-cdde0fc06a7e
 
 ---
 
@@ -151,7 +151,7 @@ Estos testimonios fueron grabados durante y después de la competencia, capturan
 
 **📋 Contexto:** El experto nacional de WorldSkills compartió su valoración sobre el proyecto, destacando la estructura técnica implementada y el nivel alcanzado frente a los demás competidores.
 
-
+https://github.com/user-attachments/assets/f3d5c850-8054-4a47-af7a-7e14c732cdcf
 
 ---
 
@@ -159,7 +159,7 @@ Estos testimonios fueron grabados durante y después de la competencia, capturan
 
 **📋 Contexto:** En la conclusión de la prueba, el experto nacional reconoció que fui uno de los pocos competidores en completar satisfactoriamente todos los ejercicios, resaltando mi
 
-
+https://github.com/user-attachments/assets/e51ef6b8-032b-4484-a1fe-c3a3177ae4c3
 
 ---
 
