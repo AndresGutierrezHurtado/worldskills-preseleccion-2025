@@ -160,3 +160,15 @@ Estos testimonios fueron grabados durante y después de la competencia, capturan
 **📋 Contexto:** En la conclusión de la prueba, el experto nacional reconoció que fui uno de los pocos competidores en completar satisfactoriamente todos los ejercicios, resaltando mi
 
 [Descargar el audio](https://github.com/AndresGutierrezHurtado/worldskills-preseleccion-2025/raw/refs/heads/main/docs/testimonios/audio-3.mp3)
+
+---
+
+## 📬 Contacto
+
+Para preguntas, soporte o colaboración, por favor contacta:
+
+-   Andrés Gutiérrez Hurtado
+-   Correo Electrónico: [andres52885241@gmail.com](mailto:andres52885241@gmail.com)
+-   LinkedIn: [Andrés Gutiérrez](https://www.linkedin.com/in/andr%C3%A9s-guti%C3%A9rrez-hurtado-25946728b/)
+-   GitHub: [@AndresGutierrezHurtado](https://github.com/AndresGutierrezHurtado)
+-   Portafolio: [andres-portfolio-b4dv.onrender.com](https://andres-portfolio-b4dv.onrender.com)
