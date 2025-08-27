@@ -16,7 +16,6 @@ En este repositorio encontrarás las **dos pruebas entregadas** (Frontend y Back
 ## 📚 Tabla de Contenidos
 
 -   [Contexto de la Competencia](#-contexto-y-preselección-worldskills-colombia-2025)
--   [Estructura del Repositorio](#-estructura-del-repositorio)
 -   [Pruebas de Competencia](#-pruebas-de-la-competencia)
 -   [Testimonios](#️-testimonios)
 -   [Contacto](#-contacto)
