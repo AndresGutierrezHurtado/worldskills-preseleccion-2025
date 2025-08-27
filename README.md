@@ -1,12 +1,13 @@
-# 🏆 WorldSkills Preselección 2025 – 🎯 Clasificación Nacional en Tecnologías Web
+# 🏆 WorldSkills Preselección 2025 – 🥈 Plata Nacional en Tecnologías Web
 
 [Ver Competencia Anterior (Regional)](https://github.com/AndresGutierrezHurtado/worldskills-regional-2025)
 
-Este repositorio reúne todo el trabajo que desarrollé durante mi participación en la **competencia de preselección WorldSkills Colombia 2025**, en la habilidad **17 - Tecnologías Web**, donde competí contra **25 participantes regionales** de todo el país por el cupo para representar a Colombia en la **competencia nacional**.
+Este repositorio reúne el trabajo que realicé durante mi participación en la **preselección nacional de WorldSkills Colombia 2025**, en la habilidad **17 - Tecnologías Web**, donde alcancé el **🥈 segundo lugar a nivel nacional**, representando con orgullo al **Regional Distrito Capital**.
 
-Esta fase de preselección fue desarrollada en **un solo día con una duración de 2 horas**, lo que requirió máxima eficiencia, preparación técnica excepcional y capacidad de adaptación bajo presión extrema.
+Esta fase reunió a los **25 mejores competidores regionales de todo el país**, convirtiéndose en una de las etapas más exigentes, intensas y competitivas del proceso.  
+Gracias a este logro, clasifiqué oficialmente a la **Competencia Nacional WorldSkills Colombia 2025**, donde lucharé por el **primer lugar en Tecnologías Web**, con la oportunidad de representar a Colombia en el escenario internacional en **Santiago de Chile 2025** y **Shanghai 2026**.
 
-Aquí encontrarás las **dos pruebas completas entregadas** (Frontend y Backend), los **recursos utilizados** y los **proyectos desarrollados**, demostrando un enfoque técnico riguroso, disciplina constante y soluciones optimizadas que me permitieron destacar entre los mejores del país.
+En este repositorio encontrarás las **dos pruebas entregadas** (Frontend y Backend), junto con los **recursos utilizados** y los **proyectos desarrollados**, reflejando un enfoque técnico de alto nivel, disciplina constante y soluciones optimizadas que me permitieron destacar entre los mejores del país.
 
 ![Prueba Frontend](./prueba-frontend/docs/images/index.png)
 
@@ -157,7 +158,7 @@ https://github.com/user-attachments/assets/f3d5c850-8054-4a47-af7a-7e14c732cdcf
 
 #### 🎙️ Testomonio: Evaluación Final y Reconocimiento
 
-**📋 Contexto:** En la conclusión de la prueba, el experto nacional reconoció que fui uno de los pocos competidores en completar satisfactoriamente todos los ejercicios, resaltando mi
+**📋 Contexto:** En la conclusión de la prueba, el experto nacional reconoció que fui uno de los pocos competidores en completar satisfactoriamente todos los ejercicios, resaltando mi trabajo desarrollado.
 
 https://github.com/user-attachments/assets/e51ef6b8-032b-4484-a1fe-c3a3177ae4c3
 
