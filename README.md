@@ -71,6 +71,8 @@ Esta prueba evaluó las habilidades de desarrollo frontend con un enfoque en la 
 -   Modal para reproducción de trailers
 -   Diseño completamente responsivo
 
+[Ver detalles de la prueba](./prueba-frontend/README.md)
+
 ### Prueba Backend - Sistema de Gestión de Películas
 
 Esta prueba evaluó las competencias en desarrollo backend y gestión de datos:
@@ -89,6 +91,8 @@ Esta prueba evaluó las competencias en desarrollo backend y gestión de datos:
 -   Catálogo público responsivo
 -   Sistema de categorías por género
 -   Validaciones de seguridad
+
+[Ver detalles de la prueba](./prueba-backend/README.md)
 
 ---
 
