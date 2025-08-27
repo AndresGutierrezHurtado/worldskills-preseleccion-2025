@@ -1,6 +1,6 @@
 # 🏆 WorldSkills Preselección 2025 – 🥈 Plata Nacional en Tecnologías Web
 
-[Ver Competencia Anterior (Regional)](https://github.com/AndresGutierrezHurtado/worldskills-regional-2025)
+[🏅 Ver Competencia Anterior (Regional)](https://github.com/AndresGutierrezHurtado/worldskills-regional-2025)
 
 Este repositorio reúne el trabajo que realicé durante mi participación en la **preselección nacional de WorldSkills Colombia 2025**, en la habilidad **17 - Tecnologías Web**, donde alcancé el **🥈 segundo lugar a nivel nacional**, representando con orgullo al **Regional Distrito Capital**.
 
@@ -48,38 +48,6 @@ La **preselección nacional WorldSkills Colombia 2025** es la fase más **exigen
 -   **Evaluación internacional**: bajo parámetros de WorldSkills
 -   **Reconocimiento nacional**: validación del talento técnico colombiano
 -   **Oportunidad de crecimiento**: acceso a competencias de mayor nivel
-
----
-
-## 📁 Estructura del Repositorio
-
-```bash
-worldskills-preseleccion-2025/
-├── prueba-frontend/                                # Prueba Frontend - Netflix Clone
-│   ├── assets/                                     # CSS, JS, imágenes y videos
-│   ├── docs/                                       # Documentación del proyecto
-│   └── index.html                                  # Página principal
-│
-├── prueba-backend/                                 # Prueba Backend - Sistema de Gestión
-│   ├── assets/                                     # CSS e imágenes del sistema
-│   ├── server/
-│   │   ├── core/                                   # Funciones core del sistema
-│   │   ├── functions/                              # Lógica de autenticación y CRUD
-│   │   ├── autoload.php                            # Carga automática de clases
-│   │   └── database.sql                            # Estructura de base de datos
-│   ├── dashboard.php                               # Panel administrativo
-│   ├── catalog.php                                 # Catálogo público
-│   ├── edit.php                                    # Edición de películas
-│   ├── view.php                                    # Vista detallada
-│   ├── delete.php                                  # Confirmación de eliminación
-│   ├── index.php                                   # Página de inicio/login
-│   └── README.md                                   # Documentación de instalación
-│
-├── docs/                                           # Testimonios y evidencias
-│   └── testimonios/                                # Audios de profesores y evaluadores
-│
-└── README.md                                       # Archivo principal de documentación
-```
 
 ---
 
