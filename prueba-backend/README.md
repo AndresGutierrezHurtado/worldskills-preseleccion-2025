@@ -1,6 +1,6 @@
 # 🖥️ Prueba backend - Gestión de películas en PHP
 
-[🔙 Volver al inicio](../README.md)
+[🔙 Volver al inicio](../README.md#-pruebas-de-la-competencia)
 
 [📄 Ver prueba](./docs/02-WSPRE2025_TP17_Backend.pdf)
 

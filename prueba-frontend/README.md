@@ -1,6 +1,6 @@
 # 🎬 Prueba Frontend - Netflix Clone
 
-[🔙 Volver al inicio](../README.md)
+[🔙 Volver al inicio](../README.md#-pruebas-de-la-competencia)
 
 [📄 Ver prueba](./docs/01-WSPRE2025_TP17_Frontend.pdf)
 
