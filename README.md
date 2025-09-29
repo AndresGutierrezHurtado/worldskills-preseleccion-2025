@@ -26,6 +26,7 @@ En este repositorio encontrarás las **pruebas entregadas** junto con los **recu
 ## 📚 Tabla de Contenidos
 
 -   [🎙️ Testimonios](#️-testimonios)
+-   [📂 Estructura del Repositorio](#-estructura-del-repositorio)
 -   [🎯 Pruebas de Competencia](#-pruebas-de-la-competencia)
 -   [📬 Contacto](#-contacto)
 
@@ -58,6 +59,20 @@ https://github.com/user-attachments/assets/cf38e64f-5ae0-4269-93a9-2b701a382792
 **📋 Contexto:** En la conclusión de la prueba, el experto nacional reconoció que fui uno de los pocos competidores en completar satisfactoriamente todos los ejercicios, resaltando mi trabajo desarrollado.
 
 https://github.com/user-attachments/assets/99e2c7a2-2775-4679-bbd4-d95e88342611
+
+---
+
+## 📁 Estructura del Repositorio
+
+```bash
+worldskills-preseleccion-2025/
+├── docs/                       # Documentacion e información de la competencia
+│
+├── prueba-frontend/            # Clon de Neflix
+├── prueba-backend/             # Gestion de peliculas
+│
+└── README.md                   # Documentación principal del repositorio
+```
 
 ---
 
