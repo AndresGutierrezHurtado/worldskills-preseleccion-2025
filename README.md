@@ -78,9 +78,9 @@ worldskills-preseleccion-2025/
 
 ## 🎯 Pruebas de la Competencia
 
-La prueba se realizó de forma **virtual**, con una duración total de **dos horas**, durante las cuales se desarrollaron los dos módulos.  
+La prueba se realizó de forma **virtual**, con una duración total de **dos horas**, durante las cuales se desarrollaron los dos módulos.
 
-Para la supervisión, se utilizaron **dos cámaras simultáneas** enfocadas en mi entorno y pantalla, con el fin de asegurar la **transparencia y validez de la evaluación**.  
+Para la supervisión, se utilizaron **dos cámaras simultáneas** enfocadas en mi entorno y pantalla, con el fin de asegurar la **transparencia y validez de la evaluación**.
 
 Cada módulo exigía aplicar conocimientos técnicos de manera autónoma, gestionando correctamente el tiempo y demostrando **capacidad de resolución y dominio de las tecnologías utilizadas**.
 
@@ -103,7 +103,7 @@ Esta prueba evaluó el **desarrollo backend con PHP puro**, implementando un **s
 Para preguntas, soporte o colaboración, por favor contacta:
 
 -   Andrés Gutiérrez Hurtado
--   Correo Electrónico: [andres52885241@gmail.com](mailto:andres52885241@gmail.com)
--   LinkedIn: [Andrés Gutiérrez](https://www.linkedin.com/in/andr%C3%A9s-guti%C3%A9rrez-hurtado-25946728b/)
+-   Correo: [andres52885241@gmail.com](mailto:andres52885241@gmail.com)
+-   LinkedIn: [Andrés Gutiérrez](https://www.linkedin.com/in/andresgh-dev)
 -   GitHub: [@AndresGutierrezHurtado](https://github.com/AndresGutierrezHurtado)
--   Portafolio: [andres-portfolio-b4dv.onrender.com](https://andres-portfolio-b4dv.onrender.com)
+-   Portafolio: [Link portafolio](https://andres-portfolio-b4dv.onrender.com)
